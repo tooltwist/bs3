@@ -1,0 +1,13 @@
+*.class
+.DS_Store
+.svn/
+/build
+/target
+timestamp
+version.xml
+.gradle
+/build.old
+/.gradle
+.classpath
+/tmp
+/bin
